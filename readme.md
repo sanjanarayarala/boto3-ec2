@@ -1,4 +1,3 @@
-````markdown
 # 🚀 AWS EC2 Management with Boto3
 
 This project is a hands-on experiment using **Boto3** (AWS SDK for Python) to **create**, **start**, **stop**, and **terminate** an **Amazon EC2 instance** via Python scripts.
