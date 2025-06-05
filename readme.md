@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for this repository that experiments with **Boto3** to create, start, stop, and terminate EC2 instances using Python.
-
----
-
 ````markdown
 # 🚀 AWS EC2 Management with Boto3
 
@@ -23,6 +19,7 @@ This project is a hands-on experiment using **Boto3** (AWS SDK for Python) to **
 - **Tools**: AWS CLI, IAM Role with proper permissions
 
 ---
+````
 
 ## 📂 Project Structure
 
@@ -57,7 +54,7 @@ cd boto3-ec2-experiment
 pip install -r requirements.txt
 ```
 
----
+
 
 ## 🔐 Security Tip
 
